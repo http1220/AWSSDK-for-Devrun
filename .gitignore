@@ -7,6 +7,10 @@ build/
 
 ### STS ###
 application.properties
+logs/
+build.gradle
+*.log
+*.properties
 .apt_generated
 .classpath
 .factorypath
